@@ -129,17 +129,17 @@ const chapters = {
         pitch: 0,
         speed: 0.5,
         coordinates: [-122.14537, 37.43386],
-        caption: '<img class="photo" loading="lazy" src="app/image/14_PaloAlto.jpg" width="100%"><p class="tipstyle01">2020</p><p class="tipstyle02">Palo Alto, USA</p>',
+        caption: '<img class="photo" loading="lazy" src="app/image/14_PaloAlto.jpg" width="100%"><p class="tipstyle01">2020</p><p class="tipstyle02">Palo Alto, California, United States</p>',
         popup_flag: 'top',
     },
-    '2021 Kashiwa-shi, Japan': {
+    '2021 KashiwaTanaka, Japan': {
         center: [139.73872, 35.71625-1],
         zoom: 5,
         bearing: 0,
         pitch: 0,
-        speed: 0.3,
+        speed: 0.5,
         coordinates: [139.73872, 35.71625],
-        caption: '<img class="photo" loading="lazy" src="app/image/16_KashiwaTanaka.jpg" width="100%"><p class="tipstyle01">2021</p><p class="tipstyle02">Kashiwa-shi, Japan</p>',
+        caption: '<img class="photo" loading="lazy" src="app/image/16_KashiwaTanaka.jpg" width="100%"><p class="tipstyle01">2021</p><p class="tipstyle02">Kashiwa-shi, Chiba-prefecture, Japan</p>',
         popup_flag: 'top',
     },
 }
