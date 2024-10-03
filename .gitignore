@@ -1,0 +1,6 @@
+dist/app/image/
+node_modules/
+tmp/
+package-lock.json
+webpack.config.js
+.DS_Store
